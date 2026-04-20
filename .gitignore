@@ -1,0 +1,21 @@
+# Maven / Java
+target/
+*.class
+
+# Allure
+allure-results/
+allure-report/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Node (varsa)
+node_modules/
